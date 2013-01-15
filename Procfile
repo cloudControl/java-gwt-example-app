@@ -1,1 +1,1 @@
-web:    java -cp target/example-1.0-SNAPSHOT/WEB-INF/classes:target/example-1.0-SNAPSHOT/WEB-INF/lib/* com.cloudcontrolled.sample.gwt.server.GreetingServiceEmbedded
+web: java $JAVA_OPTS -jar target/dependency/jetty-runner.jar --port $PORT target/*.war
