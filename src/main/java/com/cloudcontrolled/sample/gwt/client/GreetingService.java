@@ -1,4 +1,4 @@
-package com.cloudcontrolled.java.gwt.client;
+package com.cloudcontrolled.sample.gwt.client;
 
 import com.google.gwt.user.client.rpc.RemoteService;
 import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;

@@ -1,7 +1,4 @@
-package com.cloudcontrolled.java.gwt.server;
-
-import java.io.IOException;
-import java.io.PrintWriter;
+package com.cloudcontrolled.sample.gwt.server;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.webapp.WebAppContext;

@@ -1,7 +1,7 @@
-package com.cloudcontrolled.java.gwt.server;
+package com.cloudcontrolled.sample.gwt.server;
 
-import com.cloudcontrolled.java.gwt.client.GreetingService;
-import com.cloudcontrolled.java.gwt.shared.FieldVerifier;
+import com.cloudcontrolled.sample.gwt.client.GreetingService;
+import com.cloudcontrolled.sample.gwt.shared.FieldVerifier;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
 /**

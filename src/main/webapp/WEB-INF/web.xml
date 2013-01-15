@@ -8,17 +8,17 @@
   <!-- Servlets -->
   <servlet>
     <servlet-name>greetServlet</servlet-name>
-    <servlet-class>com.cloudcontrolled.java.gwt.server.GreetingServiceImpl</servlet-class>
+    <servlet-class>com.cloudcontrolled.sample.gwt.server.GreetingServiceImpl</servlet-class>
   </servlet>
   
   <servlet-mapping>
     <servlet-name>greetServlet</servlet-name>
-    <url-pattern>/example/greet</url-pattern>
+    <url-pattern>/greetingentry/greet</url-pattern>
   </servlet-mapping>
   
   <!-- Default page to serve -->
   <welcome-file-list>
-    <welcome-file>example.html</welcome-file>
+    <welcome-file>GreetingEntry.html</welcome-file>
   </welcome-file-list>
 
 </web-app>

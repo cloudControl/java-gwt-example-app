@@ -1,4 +1,4 @@
-package com.cloudcontrolled.java.gwt.shared;
+package com.cloudcontrolled.sample.gwt.shared;
 
 /**
  * <p>
